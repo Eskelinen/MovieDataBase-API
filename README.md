@@ -18,5 +18,3 @@ DELETE https://fullstack-project2.onrender.com/api/poista/:id : Poistaa id:n muk
 
 
 Sovellus on ladattu Renderiin osoitteessa: https://fullstack-project2.onrender.com
-
-En ole varma palautuiko video Canvasiin joten se on nyt vielä lisäksi täällä GitHubissa.
